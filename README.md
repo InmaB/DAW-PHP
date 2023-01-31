@@ -1,5 +1,5 @@
 # DAW-PHP
-Algunos ejercicios de 2º de DAW. PREVIEW de algunas de las interfaces
+Algunos ejercicios de 2º de DAW. PREVIEW de algunas de las interfaces:
 </br>
 <div align="center">
     <i>Ejercicio de arrays básico: </i></br>
